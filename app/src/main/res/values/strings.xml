@@ -1,0 +1,13 @@
+<resources>
+    // application name
+    <string name="app_name">Pizza Ordering Application</string>
+
+    // used this pizzaSize as array in MainActivity.java for spinner item
+    <string-array name="pizzaSize">
+        <item>Small</item>
+        <item>Regular</item>
+        <item>Large</item>
+        <item>Extra-Large</item>
+    </string-array>
+
+</resources>
